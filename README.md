@@ -73,7 +73,8 @@ npm run build
 
 ### 🖼️ UI Preview
 
-<img width="1897" height="905" alt="image" src="https://github.com/user-attachments/assets/f9334bfc-de6c-43ac-a6f5-1bda81235bfa" />
+<img width="1897" height="905" alt="Screenshot 2025-10-17 095925" src="https://github.com/user-attachments/assets/1599f93d-987e-45e1-ba6a-3da3397dd9d0" />
+
 
 ---
 

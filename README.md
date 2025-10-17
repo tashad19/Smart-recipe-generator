@@ -16,7 +16,7 @@ Simply input your ingredients (e.g., “tomato, potato, onion”) as text or ima
 ## 🚀 Features
 
 - 🧾 **AI-powered recipe suggestions** — get the top 3 recipes suited to your ingredients  
-- 🍅 **Ingredient-based search** — select from a list of available ingredients or upload images
+- 🍅 **Ingredient Image Recognition** — Upload images or type in the ingredients
 - 🧂 **Smart filtering** — filters recipes by dietary preference, cooking time, difficulty and serving size.  
 - 🎨 **Modern UI** — built with shadcn/ui and Tailwind CSS for a clean, elegant experience  
 - 📱 **Responsive design** — optimized for both mobile and desktop  
@@ -32,6 +32,8 @@ Simply input your ingredients (e.g., “tomato, potato, onion”) as text or ima
 | **React** | UI framework for dynamic components |
 | **Tailwind CSS** | Utility-first styling |
 | **shadcn/ui** | Beautiful prebuilt React components |
+| **Flask** | For the backend API |
+| **PyTorch** | Image recognition for ingredient photos |
 
 ---
 
@@ -71,7 +73,8 @@ npm run build
 
 ### 🖼️ UI Preview
 
-<img width="1897" height="905" alt="image" src="https://github.com/user-attachments/assets/f9334bfc-de6c-43ac-a6f5-1bda81235bfa" />
+<img width="1897" height="905" alt="Screenshot 2025-10-17 095925" src="https://github.com/user-attachments/assets/1599f93d-987e-45e1-ba6a-3da3397dd9d0" />
+
 
 ---
 

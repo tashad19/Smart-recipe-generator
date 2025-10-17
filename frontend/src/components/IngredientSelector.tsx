@@ -45,7 +45,7 @@ export const IngredientSelector = ({ selectedIngredients, onIngredientsChange }:
       const formData = new FormData();
       formData.append("image", files[0]); // Use the first selected image
 
-      const response = await fetch("http://localhost:5000/predict", {
+      const response = await fetch("https://smart-recipe-generator-lexl.onrender.com/predict", {
         method: "POST",
         body: formData,
       });
